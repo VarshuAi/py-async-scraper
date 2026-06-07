@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Zero-dependency command-line HTML scraper that extracts external link references.
+  name: py-async-scraper version: 1.0 type: Repository author: VarshuAi description: >   Zero-dependency command-line HTML scraper that extracts external link references. primary_tech: Python
 primary_tech: Python
 ```
 
